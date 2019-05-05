@@ -29,3 +29,6 @@ Bilibili直播弹幕库 for Mac / Windows / Linux
 ### 系统工具
 
 1. [开发效率提升：Mac生产力工具链推荐](https://github.com/Louiszhai/tool)
+
+### 资源池
+[D2日报 每天更新较多的开源项目和三方库](https://daily.fairyever.com/post/2019/05/05.html)
