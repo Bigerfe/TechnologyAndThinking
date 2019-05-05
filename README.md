@@ -26,9 +26,10 @@ Bilibili直播弹幕库 for Mac / Windows / Linux
 更好的人人开源企业版前端工程,基于 vue 开发
 
 ```
-### 系统工具
+### 生产力和工具
 
 1. [开发效率提升：Mac生产力工具链推荐](https://github.com/Louiszhai/tool)
+2. [markdown 学习和编辑器](https://www.zybuluo.com/mdeditor)
 
 ### 博文收藏
 ```
