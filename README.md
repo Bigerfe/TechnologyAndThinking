@@ -8,7 +8,10 @@
 ## 目录
 
 ### 个人博文
-1. [计算机基础科学(先学计算机后学编程)](https://github.com/bigerfe/TechnologyAndThinking/blob/master/0-start/start.md)
+1. [0基础学前端的一点思考和建议](https://github.com/bigerfe/TechnologyAndThinking/blob/master/0-start/start.md)
+```
+计算机基础科学(先学计算机后学编程)
+```
 
 
 
