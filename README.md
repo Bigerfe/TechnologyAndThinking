@@ -9,14 +9,15 @@
 ## 目录
 
 ### 张大胖个人博文
-1. [0基础学前端的一点思考和建议](https://github.com/bigerfe/TechnologyAndThinking/blob/master/0-start/start.md)
+[0基础学前端的一点思考和建议](https://github.com/bigerfe/TechnologyAndThinking/blob/master/0-start/start.md)
 ```
 计算机基础科学(先学计算机后学编程)
 ```
 
 
 ### 教程网站
-1. [提供比较基础和快速的入门教程](https://www.runoob.com/docker/docker-tutorial.html)
+
+[提供比较基础和快速的入门教程](https://www.runoob.com/docker/docker-tutorial.html)
 ```
 提供比较基础的技术教程，干货教程. 比如 docker 配置、php 学习、linux 命令学习等，还有很多其他的
 ```
